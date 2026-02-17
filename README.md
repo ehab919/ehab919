@@ -1,4 +1,4 @@
-# ☁️ Cloud & DevOps Engineer | Ehab Elbakry
+#                                                                   ☁️ Cloud & DevOps Engineer 
 ### 🚀 About Me
 I am a **DevOps Engineer** and an **NTI Graduate** (Intensive 6-month Specialized Program). I transitioned from a solid foundation in Networking and Linux to mastering modern Cloud-Native technologies. My focus is on automating infrastructure and ensuring system reliability at scale.
 
