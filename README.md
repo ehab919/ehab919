@@ -16,11 +16,14 @@ I'm a passionate DevOps Engineer focused on automating infrastructure and optimi
 
 ---
 
-### 📈 My GitHub Stats
-![Ehab's Stats](https://github-readme-stats.vercel.app/api?username=ehab919&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehab919&layout=compact&theme=tokyonight)
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ehab919&show_icons=true&theme=radical&hide_border=true" alt="Ehab's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehab919&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehab-elbakry)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ehabmhm246@outlook.com)
