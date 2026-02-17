@@ -15,15 +15,6 @@ I'm a passionate DevOps Engineer focused on automating infrastructure and optimi
 | **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 ---
-
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ehab919&show_icons=true&theme=radical&hide_border=true" alt="Ehab's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehab919&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehab-elbakry)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ehabmhm246@outlook.com)
